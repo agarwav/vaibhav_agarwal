@@ -1,0 +1,145 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #40514E;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Raleway', sans-serif;
+  font-size: 6rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #66BFBF;
+}
+
+h3 {
+  color: #11999E;
+}
+
+a {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+hr {
+  width: 10%;
+  border-style: dotted;
+  border-width: 10px 0 0 0;
+  border-color: gray;
+}
+
+p {
+  line-height: 2;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding: 100px 0 0 0;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 200px;
+  opacity: 0.5;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 200px;
+  opacity: 0.5;
+}
+
+.intro {
+  position: relative;
+}
+
+.mountain {
+  position: relative;
+}
+
+.profile-pic {
+  border-radius: 100%;
+  border-style: solid;
+  width: 20%;
+}
+
+.team-lead {
+  border-radius: 100%;
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.computer {
+  border-radius: 100%;
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.call-leader {
+  border-radius: 100%;
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.bar-raiser {
+  border-radius: 100%;
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 25px 0;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.8rem;
+}
+
+.footer-link {
+  text-align: center;
+  margin: 0 20px;
+}
+
+.contact-me {
+  width: 50%;
+  margin: 20px auto;
+}
+
+.skills-heading {
+  width: 50%;
+  margin: 50px auto;
+}
+
+.btn {
+  background-color: #66BFBF;
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+  border-radius: 20px;
+}
